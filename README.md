@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Pennsylvania, US
 
-> Free BeamStation sample export with 582 rows and masked direct-contact fields.
+> Free BeamStation sample export with 526 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `522821` |
 | Location | Pennsylvania |
 | Category | Restaurants |
-| Full dataset size | 5,821 records |
-| Free sample size | 582 records (10.0%) |
-| Last export | 2026-04-08T03:35:15.828087+00:00 |
+| Full dataset size | 5,262 records |
+| Free sample size | 526 records (10.0%) |
+| Last export | 2026-04-15T08:38:33.742201+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-pennsylvania-us-sample-522821/releases/download/sample-latest/beamstation_522821_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
