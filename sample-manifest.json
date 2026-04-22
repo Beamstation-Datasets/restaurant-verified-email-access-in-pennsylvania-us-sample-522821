@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3236faa3-fcbf-44f5-878b-14a786d4c1f8",
+  "export_job_id": "c0caf949-7bf2-4c54-8ffc-f30b5511fcd8",
   "id_short": 522821,
-  "published_at": "2026-04-19T07:51:56Z",
+  "published_at": "2026-04-22T19:51:30Z",
   "repo_name": "restaurant-verified-email-access-in-pennsylvania-us-sample-522821",
   "sample_asset_name": "beamstation_522821_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/522821/beamstation_522821_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 526,
-  "sample_sha256": "d95dbbccf0864f012c9e0b7fcbb45ceb2239b34ce27856a92fa4b6e43dd968ed",
-  "sample_size_bytes": 2006460,
-  "total_records": 5262
+  "sample_records": 447,
+  "sample_sha256": "660b5bfa6a2f6b151314f3f986f3996140e45d70de06f3583bf3d4f7ed478ba3",
+  "sample_size_bytes": 1721349,
+  "total_records": 4478
 }
